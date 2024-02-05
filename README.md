@@ -5,7 +5,8 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=kgysathsara" alt="kgysathsara" /></a> </p>
 
-- 🔭 I’m currently working on **Rapidventure Business Solutions (Pvt) Ltd**
+- 🔭 I’m currently working on **Aldtan (pvt) ltd & Appsdept (pvt) ltd**
+**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
