@@ -7,7 +7,7 @@
 
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
-- 🔭 I’m currently working on **Aldtan (Pvt) Ltd & INTELLA Research Group**
+- 🔭 I’m currently working on **eSupport (Pvt) Ltd & INTELLA Research Group**
 
 - 🌱 I’m currently learning **React Js, Vue Js and Laravel**
 
