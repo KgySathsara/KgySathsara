@@ -1,5 +1,5 @@
 <h1 align="center">Hello 👋, I am Kgy Sathsara</h1>
-<h3 align="center">(B.Sc) in Computer Science Student in University of Jaffna | Software Development Engineer | UI/UX Designer</h3>
+<h3 align="center">(B.Sc) in Computer Science Student in University of Jaffna | Software Engineer | UI/UX Designer</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=kgysathsara&label=Profile%20views&color=0e75b6&style=flat" alt="kgysathsara" /> </p>
 
