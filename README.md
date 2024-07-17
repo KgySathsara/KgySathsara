@@ -7,9 +7,9 @@
 
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
-- 🔭 I’m currently working on **eSupport (Pvt) Ltd - colombo & INTELLA Research Group**
+- 🔭 I’m currently working on **eSupport technology (Pvt) Ltd & INTELLA Research Group**
 
-- 🌱 I’m currently learning **React Js, Vue Js and Laravel**
+- 🌱 I’m currently learning **React Js and Laravel**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
