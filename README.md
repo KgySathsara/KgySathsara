@@ -9,7 +9,7 @@
 
 - 🔭 I’m currently working on **eSupport technology (Pvt) Ltd & INTELLA Research Group**
 
-- 🌱 I’m currently learning **React Js and Laravel**
+- 🌱 I’m currently learning **React Js, Vue Js and Laravel**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
