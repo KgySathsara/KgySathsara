@@ -3,7 +3,7 @@
 <h3 align="center">(B.Sc) in Computer Science in University of Jaffna | Software Engineer | UI/UX Designer</h3>
 
 <p align="center" ><img  src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" width = 150px></p>
-<h3 align="center">A Passionate Full Stack Developer</h3>
+<h3 align="center">A Passionate Solving Real World Problemes  </h3>
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=kgysathsara&label=Profile%20views&color=0e75b6&style=flat" alt="kgysathsara" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=kgysathsara" alt="kgysathsara" /></a> </p>
