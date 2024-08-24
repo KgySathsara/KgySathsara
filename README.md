@@ -1,6 +1,6 @@
 ![MasterHead](https://th.bing.com/th/id/R.618f083c61a7460ce0a6064319af41bd?rik=xVh09emgHbJ7GA&pid=ImgRaw&r=0)
 <h1 align="center">Hello 👋, I am Kgy Sathsara</h1>
-<h3 align="center">(B.Sc) in Computer Science in University of Jaffna | Software Engineer | UI/UX Designer</h3>
+<h3 align="center">(B.Sc) in Computer Science in University of Jaffna | Associate software engineerr | UI/UX Designer</h3>
 
 <p align="center" ><img  src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" width = 150px></p>
 <h3 align="center">A Passionate Solving Real World Problemes  </h3>
