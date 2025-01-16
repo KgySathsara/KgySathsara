@@ -8,7 +8,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=kgysathsara" alt="kgysathsara" /></a> </p>
 <h3 align="center">My daily.dev DevCard :</h3>
-<p align="center"><a href="https://app.daily.dev/kgysathsara"><img src="https://api.daily.dev/devcards/v2/msS4236TeF2JtgugYJp7h.png?type=default&r=i3p" width="356" alt="kgy Sathsara's Dev Card"/></a></p>
+<p align="center"><a href="https://app.daily.dev/kgysathsara"><img src="https://api.daily.dev/devcards/v2/msS4236TeF2JtgugYJp7h.png?type=default&r=zo7" width="356" alt="kgy Sathsara's Dev Card"/></a></p>
 
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
   
